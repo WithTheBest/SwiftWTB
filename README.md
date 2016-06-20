@@ -149,10 +149,3 @@ Talk: Opera, swiftly orchestrate your code to populate table views with remote d
 
 
 # Q and A
-
- presentation with concrete examples. If you're interested in Smart Contracts, for which developers are starting to be hired to develop, you should also check out Ethereum.
-I would also suggest that you check out the companies that are looking for blockchain developers and see what their areas of interest here. Then look for open-source projects in those fields, and try to understand the concepts behind those. - Kobi Gurkan
-
-A2 Best way to start off is using existing APIs available. Maybe you can try some [at our company], (https://api.coinsecure.in) . We have multiple API methods open. - Mohit, Coinsecure
-
-A3 I think learning the basics of how blockchains work and getting practical programming experience with Bitcoin wallet, transactions, APIs etc is the first step. - Muneeb Ali
