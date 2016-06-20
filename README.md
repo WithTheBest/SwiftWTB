@@ -30,9 +30,13 @@ Continue learning with the speakers' resources and code
 ## Speakers
 
 #### Basel Farag
+at [Thinkful] (https://www.thinkful.com/)
+Blogs at [Gargling With RazorBlades] (http://www.garglingwithrazorblades.com/)
 
 Talk: Swift 3: Swift Harder
+
 "In 2016, the world of iOS and Swift have seen a whirlwind of changes and rumors. From hinting Swift's eventual compatibility with Android to the introduction of robust safety systems like try, catch, and guard. Let's discuss more advanced sections of Swift and what changes we might expect come Swift 3.0 and WWDC this year."
+- [Basel] (https://github.com/Jxrgxn)
 
 #### Zhigang Fang
 at [ThoughtWorks](https://www.thoughtworks.com/)
@@ -40,7 +44,7 @@ at [ThoughtWorks](https://www.thoughtworks.com/)
 Talk: Write an Argo from scratch
 
 "[Argo](https://github.com/thoughtbot/Argo) is a library that lets you extract models from JSON (lightweight data interchange format) or similar structures in a way that's concise, type-safe, and easy to extend. Argo represents a new way of doing things in Swift, write a new Argo from scratch can better demonstrate this approach and also the functional ideas behind it, like monad, parser combinator etc."
-- [Repo Zhigang] (https://github.com/zhigang1992)
+- [Zhigang] (https://github.com/zhigang1992)
 - [Repo Argo] (https://github.com/thoughtbot/Argo)
 
 
