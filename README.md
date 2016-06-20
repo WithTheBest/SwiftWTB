@@ -62,6 +62,7 @@ Talk: Learning Functional Reactive Programming
 at [XmartLabs](https://xmartlabs.com/)
 
 Talk: Creating forms with Eureka
+
 "Speed up form development with this open source project. Learn the structure of forms, how they are created as well as, managing events, getting the values out of dynamic forms and basic customization for your project."
 - [Mats Claassen](https://github.com/mats-claassen) 
 - [Eureka Absolute README link] (https://github.com/xmartlabs/Eureka/blob/master/README.md) 
@@ -70,6 +71,7 @@ Talk: Creating forms with Eureka
 at [Directi](http://www.directi.com/)
 
 Talk: Swifty Core Data
+
 "Protocols as first class citizens have been the most awesome thing in Swift. Add Protocol extensions to that and you get nice reusable code. Learn how you can use protocols and extensions to make working with core data a bit easier."
 - [Ayush Goel](https://github.com/ayushgoel)
 
@@ -77,6 +79,7 @@ Talk: Swifty Core Data
 at [QuTheory](http://qutheory.io/)
 
 Talk: Let's Build a website in Swift
+
 "Find out the advantages of server side Swift over PHP, Ruby, JS, etc. Learn how to create a website using Vapor through a live tutorial and how to deploy it and discover how to get started and contribute to the community."
 - [Tanner Nelson](https://github.com/tannernelson)
 - [QuTheory] (https://github.com/qutheory)
@@ -86,6 +89,7 @@ Talk: Let's Build a website in Swift
 at [Intrepid Pursuits]( http://www.intrepid.io/) :
 
 Talk: The Art of Generics
+
 "Learn about Generics, why they matter in Swift and how to use them effectively. Improve your knowledge on Generic Extensions, Protocol Extensions and Concrete Extensions and the future of how Generic Extensions can also conform. Discover the limitations of generics and how to work around them, and find out how they’re being used to shape the server side."
 - [Logan Wright](https://github.com/LoganWright)
 - [Intrepid Pursuits](https://github.com/IntrepidPursuits)
@@ -94,6 +98,7 @@ Talk: The Art of Generics
 at [XPeppers](www.xpeppers.com)
 
 Talk: Framework Independent Applications with Swift
+
 "Learn how can one structure a swift app in order to decouple it from the platform (iOS, macOS, Linux). Find out through a practical example how cost effective it is to port a swift app for iOS to macOS and the benefits and costs associated with this approach."
 - [Tiago Martinho](https://github.com/tiagomartinho)
 
@@ -101,6 +106,7 @@ Talk: Framework Independent Applications with Swift
 at [Awesome iOS](https://branded.me/lucasfarah)
 
 Talk: Rapid Product Development using iOS Open Source Libraries
+
 "With the arrival of the Swift language, the iOS open source community grew exponentially. We now have a lot of people developing thousands of amazing projects to help fellow developers with different things, from Networking to Alert Views,  Localization, Images and much more. Learn how to integrate these open source libraries in your projects for a faster and better development."
 - [Lucas Farah](https://github.com/lfarah)
 - [Awesome Absolute README link] (https://github.com/vsouza/awesome-ios/blob/master/README.md)
@@ -110,6 +116,7 @@ at [Xero](https://www.xero.com/us/)
 [Matt](http://mattf.xyz/)
 
 Talk: Var, let, and the question mark
+
 "Swift introduced a new kind of object type, called an optional. Optionals are one of the key elements that separate Swift from other languages. At a higher level, optionals say whether or not a property has a value and what that value equals. Start at this higher level and go lower, talk about the implementation behind the scenes of optionals, the best time to use them, and how to pair them with the other unique elements found in Swift."
 - [Matt Faluotico] (https://github.com/mattfxyz)
 
@@ -117,12 +124,13 @@ Talk: Var, let, and the question mark
 at [Perfect](http://perfect.org/) 
 
 Talk: Perfect: a hands on introduction
+
 "Explore Perfect the web server and tool kit for developers, its components (e.g., library, connectors) and learn how to start your own project in Perfect  by practicing with the main author of the framework."
 - [Perfect Absolute README link] (https://github.com/PerfectlySoft/Perfect/blob/master/README.md)
 - [Kyle Jessup] (https://github.com/kjessup)
-- [To download and try] (https://github.com/PerfectlySoft)
-- [Help to get started] (http://perfect.org/developer-resources.html)
-- [Tutorials] (http://perfect.org/tutorials.html)
+- [To download and try Perfect] (https://github.com/PerfectlySoft)
+- [Help to get started with Perfect] (http://perfect.org/developer-resources.html)
+- [Perfect Tutorials] (http://perfect.org/tutorials.html)
 - [How-to videos] (https://www.youtube.com/channel/UCsw_djZbUnPtHu2XVNn7d3g/feed)
 
 
@@ -130,6 +138,7 @@ Talk: Perfect: a hands on introduction
 at [TryoLabs](http://www.tryolabs.com/)
 
 Talk: Protocol - Oriented Language
+
 "At WWDC 2015, Dave Abrahams, lead of the Swift Standard Library group at Apple, introduced Swift as a Protocol-oriented language. See what it means for Swift to be Protocol, oriented and how you can use it to write more powerful code"
 - [Bruno Berisso] (https://github.com/BrunoBerisso)
 
@@ -137,6 +146,7 @@ Talk: Protocol - Oriented Language
 at [Dita](http://www.d-i-t-a.com/) 
 
 Talk: WWDC - What’s new in Swift?
+
 "Swift is heading for amazing things. As the most loved programming language of 2015 according to Stack Overflow, and proving incredible user growth, predictions for anticipated improvements include increased portability of Swift 3.0, and possibilities into cross-platform usability benefiting devs everywhere. Find out the key learnings from WWDC."
 - [Aferdita] (https://github.com/aferditamuriqi)
 
@@ -144,10 +154,10 @@ Talk: WWDC - What’s new in Swift?
 at [XmartLabs](http://xmartlabs.com)
 
 Talk: Opera, swiftly orchestrate your code to populate table views with remote data
+
 "Learn how to use Opera library to show remote data into a UITableView. Opera leverages swift language capabilities and compounds many OSS projects to provide a simple, reliable and maintainable way to retrieve and show remote data collections."
 - [Martin](https://github.com/mtnBarreto)
 - [OPERA Absolute README link] (https://github.com/xmartlabs/Opera/blob/master/README.md)
-
 
 
 # External Links
