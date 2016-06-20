@@ -1,7 +1,9 @@
 # SwiftWTB
 
 With The Best is the biggest Online Conference Series for developers.
-Join some of the most esteemed Swift experts for exclusive live coding sessions and benefit from 1-to-1 mentoring on Saturday June 25th 10am-6pm EDT [get your ticket here] (http://swift.withthebest.com/?utm_source=github&utm_medium=repo&utm_content=&utm_campaign=swiftwtb)
+
+Join some of the most esteemed Swift experts for exclusive live coding sessions and benefit from 1-to-1 mentoring on Saturday June 25th 10am-6pm EDT [Get your ticket here!] (http://swift.withthebest.com/?utm_source=github&utm_medium=repo&utm_content=&utm_campaign=swiftwtb)
+
 Talks will be available after the conference on the [Swift WTB platform] (https://swift.withthebest.bemyapp.com/) 
 Continue learning with the speakers' resources and code
 
