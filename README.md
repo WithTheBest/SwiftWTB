@@ -120,11 +120,10 @@ Talk: Perfect: a hands on introduction
 "Explore Perfect the web server and tool kit for developers, its components (e.g., library, connectors) and learn how to start your own project in Perfect  by practicing with the main author of the framework."
 - [Perfect Absolute README link] (https://github.com/PerfectlySoft/Perfect/blob/master/README.md)
 - [Kyle Jessup] (https://github.com/kjessup)
-[To download and try] (https://github.com/PerfectlySoft)
-[Help to get started] (http://perfect.org/developer-resources.html)
-[Tutorials] (http://perfect.org/tutorials.html)
-[How-to videos] (https://www.youtube.com/channel/UCsw_djZbUnPtHu2XVNn7d3g/feed)
-
+- [To download and try] (https://github.com/PerfectlySoft)
+- [Help to get started] (http://perfect.org/developer-resources.html)
+- [Tutorials] (http://perfect.org/tutorials.html)
+- [How-to videos] (https://www.youtube.com/channel/UCsw_djZbUnPtHu2XVNn7d3g/feed)
 
 
 #### Bruno Berisso
