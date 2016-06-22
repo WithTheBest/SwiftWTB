@@ -51,12 +51,12 @@ Talk: Write an Argo from scratch
 
 
 #### Tobias Due Munk
-at [DevelopMunk](http://developmunk.dk/)
+at [developmunk](http://developmunk.dk/)
 
 Talk: Learning Functional Reactive Programming
 
-"Swift has introduced quite a bit of functional programming into the world of iOS development. Get an introduction to the functional concepts available in Swift and how the reactive part of Functional Reactive Programming (FRP) can be used in Swift."Challenges of dealing with multiple popular “non-bitcoin” clones: ethereum (ether), Bitshares (BTS), NXT, ripple (XRP), monero (XMR) and more-ShapeShift supports 40+ assets. Possible suggestions/solutions and workarounds along with advantages/disadvantages of various platforms."
-- [DueMunk] (https://github.com/duemunk)
+"Swift has introduced quite a bit of functional programming into the world of iOS development. Get an introduction to the functional concepts available in Swift and how the reactive part of Functional Reactive Programming (FRP) can be used in Swift."
+- [duemunk](https://github.com/duemunk)
 
 #### Mathias Claassen
 at [XmartLabs](https://xmartlabs.com/)
