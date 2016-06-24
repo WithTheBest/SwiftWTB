@@ -12,6 +12,7 @@ Continue learning with the speakers' resources and code
    -  [Basel Farag](#basel-farag)
    -  [Zhigang Fang](#zhigang-fang)
    -  [Tobias Due Munk](#tobias-due-munk)
+   -  [Boris Bügler](#boris-bügler)
    -  [Mathias Claassen](#mathias-claassen)
    -  [Ayush Goel](#ayush-goel)
    -  [Tanner Nelson](#tanner-nelson)
@@ -23,7 +24,7 @@ Continue learning with the speakers' resources and code
    -  [Bruno Berisso](#bruno-berisso)
    -  [Aferdita Muriqi](#aferdita-muriqi)
    -  [Martin Barreto](#martin-barreto)
-
+   -  [Gabriel Peart](#gabriel-peart)
 
 - [External Links](#external-links)
 - [Q&A](#q-and-a)
@@ -57,6 +58,14 @@ Talk: Learning Functional Reactive Programming
 
 "Swift has introduced quite a bit of functional programming into the world of iOS development. Get an introduction to the functional concepts available in Swift and how the reactive part of Functional Reactive Programming (FRP) can be used in Swift."
 - [duemunk](https://github.com/duemunk)
+
+#### Boris Bügler
+at [Contentful](https://www.contentful.com)
+
+Talk: Cross-platform Swift
+
+"Swift is now not only available on all four Apple platforms, but also on Linux — and possibly soon elsewhere as well. Each platform has some peculiarities, but we want to write at least some of our code in a way that works on all of them, e.g. to share a piece of business logic between our iOS application and the server-side. This talk gives an overview on which APIs are available cross-platform and how we can effectively build components that work everywhere."
+- [neonichu](https://github.com/neonichu)
 
 #### Mathias Claassen
 at [XmartLabs](https://xmartlabs.com/)
@@ -158,6 +167,14 @@ Talk: Opera, swiftly orchestrate your code to populate table views with remote d
 "Learn how to use Opera library to show remote data into a UITableView. Opera leverages swift language capabilities and compounds many OSS projects to provide a simple, reliable and maintainable way to retrieve and show remote data collections."
 - [Martin](https://github.com/mtnBarreto)
 - [OPERA Absolute README link](https://github.com/xmartlabs/Opera/blob/master/README.md)
+
+#### Gabriel Peart
+at [CabOnline](https://www.cabonline.com)
+
+Talk: Test-Driven Development with Swift
+
+"What is TDD? What are the Benefits? Does it hurt? Set your code on fire with TDD and understand the specific ways that a test-driven approach can benefit your workflow."
+- [Gabriel](https://github.com/gabrielPeart)
 
 
 # External Links
