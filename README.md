@@ -175,6 +175,8 @@ Talk: Test-Driven Development with Swift
 
 "What is TDD? What are the Benefits? Does it hurt? Set your code on fire with TDD and understand the specific ways that a test-driven approach can benefit your workflow."
 - [Gabriel](https://github.com/gabrielPeart)
+- [Demo project] (https://github.com/Swiftification/Swift_with_the_best_TDD)
+- [Slides] (https://github.com/Swiftification/Swift_with_the_best_TDD/blob/master/Swift_with_the_best_TDD.pdf)
 
 
 # External Links
