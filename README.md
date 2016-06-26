@@ -1,8 +1,9 @@
 # SwiftWTB
+Saturday June 25th 10am-6pm EDT [Ticket](http://swift.withthebest.com/?utm_source=github&utm_medium=repo&utm_content=&utm_campaign=swiftwtb)
 
-With The Best is the biggest Online Conference Series for developers.
-
-Join some of the most esteemed Swift experts for exclusive live coding sessions and benefit from 1-to-1 mentoring on Saturday June 25th 10am-6pm EDT [Get your ticket here!](http://swift.withthebest.com/?utm_source=github&utm_medium=repo&utm_content=&utm_campaign=swiftwtb)
+Thanks for joining Swift With The Best!
+Our esteemed Swift experts gave fantastically in-depth tech talks, live coding sessions, great demos, and opened our eyes to the possibilities of Swift. Some of you had great questions for our speakers or were lucky to benefit from 1-to-1 mentoring! 
+Replay update: The first 7 have loaded so far, Ayush's full talk is coming and the following talks are yet to upload: Logan, Tiago, Lucas, Matt, Kyle, Bruno, Aferdita, Martin, Gabriel. We'll keep you posted!
 
 Talks will be available after the conference on the [Swift WTB platform](https://swift.withthebest.bemyapp.com/) 
 Continue learning with the speakers' resources and code
@@ -83,6 +84,7 @@ Talk: Swifty Core Data
 
 "Protocols as first class citizens have been the most awesome thing in Swift. Add Protocol extensions to that and you get nice reusable code. Learn how you can use protocols and extensions to make working with core data a bit easier."
 - [Ayush Goel](https://github.com/ayushgoel)
+- [WTB Code](https://github.com/ayushgoel/wtb)
 
 #### Tanner Nelson 
 at [QuTheory](http://qutheory.io/)
