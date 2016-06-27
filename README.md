@@ -5,7 +5,7 @@ Thanks for joining Swift With The Best!
 Our esteemed Swift experts gave fantastically in-depth tech talks, live coding sessions, great demos, and opened our eyes to the possibilities of Swift. Some of you had great questions for our speakers or were lucky to benefit from 1-to-1 mentoring! 
 Talks will be available after the conference on the [Swift WTB platform](https://swift.withthebest.bemyapp.com/) 
 
-Replay update: The first 7 talks have loaded so far, Ayush's full talk is coming and the following talks are yet to upload: Logan, Tiago, Lucas, Matt, Kyle, Bruno, Aferdita, Martin, Gabriel. We'll keep you posted!
+Replay update: All the talks have been uploaded for attendees and can be found here [REPLAYS](https://swift.withthebest.bemyapp.com/#/replay)
 
 Continue learning with the speakers' resources and code
 
