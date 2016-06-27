@@ -114,6 +114,8 @@ Talk: Framework Independent Applications with Swift
 
 "Learn how can one structure a swift app in order to decouple it from the platform (iOS, macOS, Linux). Find out through a practical example how cost effective it is to port a swift app for iOS to macOS and the benefits and costs associated with this approach."
 - [Tiago Martinho](https://github.com/tiagomartinho)
+- [Sample code](https://github.com/tiagomartinho/LoginScreen)
+- [slides](speakerdeck.com/tiagomartinho/framework-independent-applications-with-swift)
 
 #### Lucas Farah 
 at [Awesome iOS](https://branded.me/lucasfarah)
@@ -187,3 +189,21 @@ Talk: Test-Driven Development with Swift
 
 
 # Q and A
+
+Documentation
+
+[Swift.org](https://swift.org/documentation/#the-swift-programming-language)
+
+Q. Is there a book on design patterns for exclusively Swift development that people can recommend? My problem is that I am not interested in existing design patterns that have been re-written in Swift, I want design patterns that are made for functional programming, and truly harness the benefits of Swift. Thanks.
+
+A. Did you check this one? (https://www.objc.io/books/functional-swift/) via [Tiago Martinho](https://github.com/tiagomartinho)
+A. Hi Syedfa, I would recommend this book: (https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X) via [Gabriel](https://github.com/gabrielPeart) You can also check this repository I contribute: (https://github.com/gabrielPeart/Design-Patterns-In-Swift) It has some interesting examples.
+A. I would suggest you read SICP (https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) known as the "wizard book" . It is based on scheme, but the concept is what matters. It will help you understand some basics of functional programming which you can reimplement using swift. via [Ayush Goel](https://github.com/ayushgoel)
+
+
+Q. Hi, I am a new Swift developer. The deeper I get into the iOS it is becoming clear that I need to know Objective-C. How difficult is it to learn Objective-C if you only know Swift.
+
+A. The most important thing if you are working with iOS is to know the framework API from Cocoa Touch, if you know them well working with Objective-C or Swift is easy. via [Tiago Martinho](https://github.com/tiagomartinho)
+A. It'll be difficult comparatively. But just like anything else, you just keep at it. If you know other programming languages, it should be alright/straightforward. via [Basel](https://github.com/Jxrgxn)
+A. (What Tiago said) + 1. I would like to add that like every other language, Objective-C is also a vast and deep language. And most of the time, for practical purposes, you are not required to go that far and deep. You learn the basics and read as much code as you can. Note: Sometimes, more knowledge makes you write code, that is indecipherable by others, so watch out for that too. Been there :( via [Ayush Goel](https://github.com/ayushgoel)
+ 
